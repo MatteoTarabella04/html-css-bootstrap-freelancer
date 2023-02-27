@@ -11,10 +11,6 @@
 
 /* #region debug */
 
-.debug section {
-    height: 500px;
-}
-
 .debug div {
     border: 1px dashed black;
 }
