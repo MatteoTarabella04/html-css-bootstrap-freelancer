@@ -51,6 +51,15 @@
     aspect-ratio: 1/1;
 }
 
+.debug button {
+    border: 0.5px solid black;
+}
+
+/* .debug [class^="cont_"]{
+    aspect-ratio: 1/1;
+    height: 100px;
+} */
+
 /* #region debug */
 
 /* #region common */
@@ -72,5 +81,10 @@ section:nth-child(odd) {
 /* #region utilities */
 
 /* #region main */
+
+.cont_1, .cont_2 {
+    width: 50%;
+    aspect-ratio: 1/1;
+}
 
 /* #region main */
