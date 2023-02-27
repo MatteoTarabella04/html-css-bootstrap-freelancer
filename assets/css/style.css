@@ -1,0 +1,26 @@
+/* #region root */
+
+:root {
+    --bg-head-blue: #2c3e50;
+    --bg-section-aqua: #1abc9c;
+    --bg-footer-lighter: #3a546d;
+}
+
+
+/* #region root */
+
+/* #region debug */
+
+.debug [class^="col"] {
+    border: 1px dashed black;
+}
+
+/* #region debug */
+
+/* #region common */
+
+header {
+    height: 60px;
+}
+
+/* #endregion common */
