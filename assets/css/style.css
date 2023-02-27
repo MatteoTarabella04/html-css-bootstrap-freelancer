@@ -1,11 +1,11 @@
 /* #region root */
 
-:root {
+/* :root {
     --bg-head-blue: #2c3e50;
     --bg-section-aqua: #1abc9c;
     --bg-footer-lighter: #3a546d;
 }
-
+ */
 
 /* #region root */
 
@@ -13,6 +13,7 @@
 
 .debug [class^="col"] {
     border: 1px dashed black;
+    height: 60px;
 }
 
 /* #region debug */
