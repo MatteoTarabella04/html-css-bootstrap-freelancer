@@ -11,9 +11,13 @@
 
 /* #region debug */
 
+.debug section {
+    height: 500px;
+}
+
 .debug [class^="col"] {
     border: 1px dashed black;
-    height: 60px;
+    height: 80px;
 }
 
 /* #region debug */
@@ -21,7 +25,7 @@
 /* #region common */
 
 header {
-    height: 60px;
+    height: 80px;
 }
 
 /* #endregion common */
