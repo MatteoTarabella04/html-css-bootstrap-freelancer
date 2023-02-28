@@ -89,6 +89,10 @@ section:nth-child(odd) {
     width: 50%;
 }
 
+.line {
+    height: 5px;
+}
+
 /* #endregion main */
 
 /* #region footer */
