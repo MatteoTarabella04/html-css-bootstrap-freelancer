@@ -131,6 +131,15 @@ section:nth-child(odd) {
     background-color: var(--bg-footer-lighter);
 }
 
+.round {
+    width: 50px;
+    aspect-ratio: 1/1;
+}
+
+#footer_top a:last-child {
+    color: var(--bg-section-aqua);
+}
+
 
 #footer_bottom {
     background-color: var(--bg-head-blue);
@@ -138,3 +147,6 @@ section:nth-child(odd) {
 
 
 /* #endregion footer */
+
+
+
