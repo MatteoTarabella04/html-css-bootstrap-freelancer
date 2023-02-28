@@ -80,10 +80,10 @@ section:nth-child(odd) {
 
 /* #endregion main */
 
-.cont_1, .cont_2 {
+/* .cont_1, .cont_2 {
     width: 50%;
     aspect-ratio: 1/1;
-}
+} */
 
 .form {
     width: 50%;
